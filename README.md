@@ -1,19 +1,19 @@
-# Experiment_Time_Table
+ Experiment_Time_Table
 
-## AIM
+ AIM
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
-### STEP 1
+ ALGORITHM
+ STEP 1
 create a simple table using table tag.
-### STEP 2
+ STEP 2
 Add header row using th tag.
-### STEP 3
-Add your timetable.
-### STEP 4
+ STEP 3
+Add your timetable
+STEP 4
 Execute the program.
 
-# CODE
+ CODE
 
 <TABLE BORDER="9" width="750" bgcolor="tan" cellspacing="10" cellpadding="10">
 <TR>
@@ -76,7 +76,7 @@ ENGINEERING</TD>
 </TR>
 </TABLE>
 
-# OUPUT
+ OUPUT
 
-#RESULT
+RESULT
 The program for displaying timetable is executed succcessfully.
